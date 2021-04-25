@@ -1,0 +1,2 @@
+# Agirlik-Sensoru
+Agirlik Sensoru
